@@ -1,4 +1,4 @@
-ChatGPT
+
 Flutter App Readme
 MyAwesomeApp
 Welcome to MyAwesomeApp, a Flutter application designed to provide you with weather information and some extra fun features!
